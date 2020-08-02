@@ -1,6 +1,9 @@
 # CS340-Assn3
+
 Assignment 3 - Part II
+
 Written By: Chelsey Mitchell
+
 Written in C++ using Visual Studio 2017
 
 Assignment Description:
